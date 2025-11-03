@@ -1,4 +1,4 @@
-# Repository for some of the single-cell scripts from the JCK lab @ University of Sheffield & Stanford
+# Single-cell scripts - JCK lab @ University of Sheffield & Stanford
 
 Team:
 
