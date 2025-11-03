@@ -1,4 +1,6 @@
-# Single-cell scripts - JCK lab @ University of Sheffield & Stanford
+# Single-cell scripts
+
+## JCK lab @ University of Sheffield & Stanford
 
 ## Team:
 
